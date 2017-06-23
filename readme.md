@@ -1,6 +1,10 @@
 # Awesome Cache [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated collection of resources for understanding caching.
+A curated collection of resources for understanding caching.
+
+>Caching is a technique that stores a copy of a given resource and serves it back when requested. When a web cache has a requested resource in its store, it intercepts the request and returns its copy instead of re-downloading from the originating server. This achieves several goals: it eases the load of the server that doesn’t need to serve all clients itself, and it improves performance by being closer to the client, i.e., it takes less time to transmit the resource back.
+>
+> -- <cite>[Mozilla Developer Network - HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)</cite> 
 
 
 ## Contents
@@ -14,10 +18,10 @@
 
 <!--About this section. Optional. Keep this short and focus on the list.-->
 
-- [MDN: HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
-- [Google Developers: HTTP Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
-- [Heroku Dev Center: Increasing Application Performance With HTTP Cache Headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers)
-- [W3: Caching in HTTP1.1](https://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html)
+- [Mozilla Developer Network: HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching) - A general introduction to caching mechanism with basic concepts and headers explained.
+- [Google Developers: HTTP Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching) - Caching concepts, directives and policy explained.
+- [Heroku Dev Center: Increasing Application Performance With HTTP Cache Headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers) - Caching mechanism explained together with practical examples of conditional requests.
+- [W3: Caching in HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html) - Caching in official specification of HTTP/1.1.
 
 
 ## Learning Resources
