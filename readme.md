@@ -26,16 +26,16 @@ A curated collection of resources for understanding caching.
 
 ## Learning Resources
 
-- [Web Caching And Content Delivery Resources](https://www.mnot.net/cache_docs/)
-- [Caching Tutorial For Web Authors And Webmasters](https://www.mnot.net/cache_docs/)
-- [HTTP Cache Headers – A Complete Guide](https://www.keycdn.com/blog/http-cache-headers/)
-- [Caching Best Practices & max-age Gotchas](https://jakearchibald.com/2016/caching-best-practices/)
+- [Caching Tutorial For Web Authors And Webmasters](https://www.mnot.net/cache_docs/) - A conprehensive caching guide explaining browser and proxy caches with useful FAQ  section.
+- [HTTP Cache Headers – A Complete Guide](https://www.keycdn.com/blog/http-cache-headers/) - An article examining cache headers from browser dev console.
+- [Caching Best Practices & max-age Gotchas](https://jakearchibald.com/2016/caching-best-practices/) - Transparent explanation of caching policies with nice examples of the server-client communication. Service Worker cache busting example.
+- [Mozilla Developer Network: Cache API](https://developer.mozilla.org/en-US/docs/Web/API/Cache) - Cache API interface of browser service worker. 
 
 
 ## Online Tools
 
-- [REDbot HTTP Header Checker](https://redbot.org/)
-- [HTTP Header Check - Analyze HTTP Response Headers](https://tools.keycdn.com/curl)
+- [REDbot HTTP Header Checker](https://redbot.org/) - An HTTP request header checker providing also suggestions of missing headers and explanations of their meanings.
+- [HTTP Header Check - Analyze HTTP Response Headers](https://tools.keycdn.com/curl) - A HTTP headers examination using curl in the background. 
 
 
 ## Contribute
